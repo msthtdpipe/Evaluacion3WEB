@@ -81,7 +81,7 @@ Para ejecutar de manera local esta aplicación web, no se requieren dependencias
 
 ---
 
-## 5. Preguntas de Cierre (Reflexión Brief) 🧠
+## 5. Preguntas de Cierre
 
 ### 1. ¿Por qué elegiste esta temática y cómo influyó en el diseño del formulario y de las validaciones?
 Hice la selección de esta temática debido a que me pareció una solución más escalable, a la que posiblemente pueda realizarle un uso futuro si se hacen las respectivas mejoras con tiempo. Como estudiantes muchas veces es dificil mantener un orden y gestión en nuestros tiempos, llevandonos a tener problemas con las entregas de tareas y avances de nuestros proyectos. El diseño del formulario y validaciones se trató de hacer lo más comprensible posible para alguien que no conozca tanto de tecnología, haciendo un uso efectivo de texto y validaciones visibles para el usuario.
