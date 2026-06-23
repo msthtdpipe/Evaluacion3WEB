@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Organizador de Tareas de Estudio</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <main class="contenedor-principal">
+        <h1>Organizador de Tareas</h1>
+
+        <section class="lista-tareas">
+            <h2>Tareas Pendientes</h2>
+            <div id="contenedor-dinamico">
+            </div>
+        </section>
+        
+        <form id="formulario-tareas">
+            <div class="formulario">
+                <h3>Agregar Nueva Tarea</h3>
+                <label for="nombre-tarea">Nombre de la tarea:</label>
+                <input type="text" id="nombre-tarea" autocomplete="off">
+                <span class="mensaje-error" id="error-nombre"></span>
+            </div>
+
+            <div class="formulario">
+                <label for="asignatura">Asignatura:</label>
+                <select id="asignatura">
+                    <option value="">Seleccione una asignatura...</option>
+                    <option value="Programacion Web">Programación Web</option>
+                    <option value="Base de Datos">Diseño de Base de Datos</option>
+                    <option value="Programacion .NET">Programación .NET</option>
+                    <option value="Patrones de Diseño">Patrones de Diseño</option>
+                    <option value="Integracion de Competencias I">Integración de Competencias I</option>
+                </select>
+                <span class="mensaje-error" id="error-asignatura"></span>
+            </div>
+
+            <div class="formulario">
+                <label for="fecha-entrega">Fecha de entrega:</label>
+                <input type="date" id="fecha-entrega">
+                <span class="mensaje-error" id="error-fecha"></span>
+            </div>
+
+            <div class="formulario">
+                <label for="horas-estimadas">Horas estimadas (hrs):</label>
+                <input type="number" id="horas-estimadas" min="1">
+                <span class="mensaje-error" id="error-horas"></span>
+            </div>
+
+            <button type="submit" id="btn-guardar">Guardar Tarea</button>
+        </form>
+
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
