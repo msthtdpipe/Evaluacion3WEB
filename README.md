@@ -67,7 +67,6 @@ Para ejecutar de manera local esta aplicación web, no se requieren dependencias
 
 ## 4. Evidencias de Funcionamiento (Capturas de Pantalla) 📸
 
-> *Nota: Inserte aquí las capturas de pantalla reales solicitadas en los entregables de su proyecto.*
 
 * **Vista General e Interfaz Principal:**
   ![Interfaz Base](https://imgur.com/a/cEFTCxA)
