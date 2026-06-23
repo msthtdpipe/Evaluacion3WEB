@@ -69,7 +69,7 @@ Para ejecutar de manera local esta aplicación web, no se requieren dependencias
 
 
 * **Vista General e Interfaz Principal:**
-  ![Interfaz Base](https://imgur.com/a/cEFTCxA)
+  ![Interfaz Base](https://i.imgur.com/5coLFYI.png)
 * **Validaciones de Error en Acción (Campos Inválidos):**
   ![Validaciones fallidas](https://imgur.com/a/U7Qwp3M)
 * **Estados de Éxito en Formulario (Campos Válidos):**
