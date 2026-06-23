@@ -77,7 +77,7 @@ Para ejecutar de manera local esta aplicación web, no se requieren dependencias
   ![Validaciones exitosas](https://imgur.com/a/2NvRZJs)
 * **Persistencia en LocalStorage (Application DevTools):**
   ![LocalStorage](https://imgur.com/a/Rbm428x)
-  **Todas las validaciones:**
+* **Todas las validaciones:**
   ![Validaciones] (https://imgur.com/a/Lubxl4W)
 
 ---
