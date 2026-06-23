@@ -71,11 +71,11 @@ Para ejecutar de manera local esta aplicación web, no se requieren dependencias
 * **Vista General e Interfaz Principal:**
   ![Interfaz Base](https://i.imgur.com/5coLFYI.png)
 * **Validaciones de Error en Acción (Campos Inválidos):**
-  ![Validaciones fallidas](https://imgur.com/a/U7Qwp3M)
+  ![Validaciones fallidas](https://i.imgur.com/jwEGNRI.png)
 * **Estados de Éxito en Formulario (Campos Válidos):**
-  ![Validaciones exitosas](https://imgur.com/a/2NvRZJs)
+  ![Validaciones exitosas](https://i.imgur.com/ucVepCr.png)
 * **Persistencia en LocalStorage (Application DevTools):**
-  ![LocalStorage](https://imgur.com/a/Rbm428x)
+  ![LocalStorage](https://i.imgur.com/iRoNgzM.png)
 * **Todas las validaciones:**
   ![Validaciones] (https://imgur.com/a/Lubxl4W)
 
