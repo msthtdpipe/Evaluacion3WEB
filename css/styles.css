@@ -27,6 +27,7 @@ body {
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
+
 h1 {
     text-align: center;
     color: var(--color-primario);
@@ -67,6 +68,7 @@ input, select {
     transition: border-color 0.3s;
 }
 
+
 input:focus, select:focus {
     outline: none;
     border-color: var(--color-primario);
@@ -99,7 +101,6 @@ button {
     cursor: pointer;
     width: 100%;
     font-weight: bold;
-    transition: background-color 0.3s, transform 0.1s;
 }
 
 button:hover {

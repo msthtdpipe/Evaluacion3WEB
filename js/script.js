@@ -15,7 +15,7 @@ function obtenerTareasStorage() {
 
 function cargarTareas() {
     const tareas = obtenerTareasStorage();
-    tareas.sort((a, b) => {     // PARA ORDENAR LAS TAREAS POR FECHA DE MENOR A MAYOR POR PROXIMIDAD DE ENTREGA
+    tareas.sort((a, b) => {     
         if (a.fecha < b.fecha) return -1;       
         if (a.fecha > b.fecha) return 1;
         return 0;
@@ -150,7 +150,7 @@ function renderizarTareaDOM(tarea) {
     divItem.classList.add('tarea-item');
     divItem.id = `tarea-${tarea.id}`;
 
-    const divInfo = document.createElement('div');  //INFO DEL CONTENEDOR DE TAREAS
+    const divInfo = document.createElement('div');  
     divInfo.classList.add('tarea-info');
     divInfo.innerHTML = `
         <strong>${tarea.nombre}</strong>
