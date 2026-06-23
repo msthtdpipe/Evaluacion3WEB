@@ -57,7 +57,7 @@ Para ejecutar de manera local esta aplicación web, no se requieren dependencias
    ```
 2. **Navegar al directorio raíz del proyecto:**
    ```bash
-   cd mi-proyecto
+   cd EvaluacionSemana16
    ```
 3. **Ejecutar la aplicación:**
    - Puede abrir directamente el archivo `index.html` haciendo doble clic en él desde su gestor de archivos.
@@ -77,7 +77,7 @@ Para ejecutar de manera local esta aplicación web, no se requieren dependencias
 * **Persistencia en LocalStorage (Application DevTools):**
   ![LocalStorage](https://i.imgur.com/iRoNgzM.png)
 * **Todas las validaciones:**
-  ![Validaciones] (https://imgur.com/a/Lubxl4W)
+    (https://imgur.com/a/Lubxl4W)
 
 ---
 
